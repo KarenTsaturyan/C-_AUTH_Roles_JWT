@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\JWTAuthentification_Authorization.props" />
-</Project>
